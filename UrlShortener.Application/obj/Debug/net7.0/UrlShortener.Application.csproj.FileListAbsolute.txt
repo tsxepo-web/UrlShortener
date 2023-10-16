@@ -1,0 +1,15 @@
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/bin/Debug/net7.0/UrlShortener.Application.deps.json
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/bin/Debug/net7.0/UrlShortener.Application.dll
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/bin/Debug/net7.0/UrlShortener.Application.pdb
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/bin/Debug/net7.0/UrlShortener.Infrastructure.dll
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/bin/Debug/net7.0/UrlShortener.Infrastructure.pdb
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/UrlShortener.Application.csproj.AssemblyReference.cache
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/UrlShortener.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/UrlShortener.Application.AssemblyInfoInputs.cache
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/UrlShortener.Application.AssemblyInfo.cs
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/UrlShortener.Application.csproj.CoreCompileInputs.cache
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/UrlShortener.Application.csproj.CopyComplete
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/UrlShortener.Application.dll
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/refint/UrlShortener.Application.dll
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/UrlShortener.Application.pdb
+/home/tsxepo/repos/backend-apps/UrlShortener/UrlShortener.Application/obj/Debug/net7.0/ref/UrlShortener.Application.dll
